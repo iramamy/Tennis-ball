@@ -4,16 +4,16 @@
 
 ```
 @misc{
-    tennis-ball-detection_dataset,
-    title = { tennis ball detection Dataset },
+    tenis-trackes_dataset,
+    title = { Tenis Trackes Dataset },
     type = { Open Source Dataset },
-    author = { Viren Dhanwani },
-    howpublished = { \url{ https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection } },
-    url = { https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection },
+    author = { JOSETOMASBURGUILLOS },
+    howpublished = { \url{ https://universe.roboflow.com/josetomasburguillos/tenis-trackes } },
+    url = { https://universe.roboflow.com/josetomasburguillos/tenis-trackes },
     journal = { Roboflow Universe },
     publisher = { Roboflow },
-    year = { 2023 },
-    month = { feb },
+    year = { 2024 },
+    month = { may },
     note = { visited on 2024-06-29 },
 }
 
